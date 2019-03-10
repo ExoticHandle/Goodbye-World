@@ -7,4 +7,3 @@ start two.bat
 start two.bat
 start two.bat
 
-pause
